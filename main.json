@@ -1,0 +1,18 @@
+{
+"object_name": "phòng",
+"object_id":"room",
+  "data":{
+    [
+      {
+      "id":"101",
+      "name":"phong 101"
+      },
+      {"id":"102",
+      "name":"phong 102"
+      },
+      {"id":"105",
+      "name":"phong 105"
+      }
+    ]
+  }
+}
