@@ -1,0 +1,23 @@
+{
+"object_name": "bọn spam",
+"object_id":"spam",
+  "data":
+  [
+    {
+    "id":"11",
+    "name":"spam số 1"
+    },
+    {"id":"12",
+    "name":"spam số 2"
+    },
+    {"id":"13",
+    "name":"spam số 3"
+    },
+    {"id":"14",
+    "name":"spam số 4"
+    },
+    {"id":"15",
+    "name":"spam số 5"
+    }
+  ]
+}
